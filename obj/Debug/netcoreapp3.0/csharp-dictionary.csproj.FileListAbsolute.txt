@@ -1,0 +1,11 @@
+C:\source\codeworks\csharp-dictionary\obj\Debug\netcoreapp3.0\csharp-dictionary.csprojAssemblyReference.cache
+C:\source\codeworks\csharp-dictionary\obj\Debug\netcoreapp3.0\csharp-dictionary.AssemblyInfoInputs.cache
+C:\source\codeworks\csharp-dictionary\obj\Debug\netcoreapp3.0\csharp-dictionary.AssemblyInfo.cs
+C:\source\codeworks\csharp-dictionary\bin\Debug\netcoreapp3.0\csharp-dictionary.exe
+C:\source\codeworks\csharp-dictionary\bin\Debug\netcoreapp3.0\csharp-dictionary.deps.json
+C:\source\codeworks\csharp-dictionary\bin\Debug\netcoreapp3.0\csharp-dictionary.runtimeconfig.json
+C:\source\codeworks\csharp-dictionary\bin\Debug\netcoreapp3.0\csharp-dictionary.runtimeconfig.dev.json
+C:\source\codeworks\csharp-dictionary\bin\Debug\netcoreapp3.0\csharp-dictionary.dll
+C:\source\codeworks\csharp-dictionary\bin\Debug\netcoreapp3.0\csharp-dictionary.pdb
+C:\source\codeworks\csharp-dictionary\obj\Debug\netcoreapp3.0\csharp-dictionary.dll
+C:\source\codeworks\csharp-dictionary\obj\Debug\netcoreapp3.0\csharp-dictionary.pdb
